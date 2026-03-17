@@ -73,5 +73,25 @@
         "episode_count": 13
       }
     ]
+  },
+  "95479": {
+    "name": "咒术回战",
+    "seasons": [
+      {
+        "season_number": 1,
+        "name": "咒术回战",
+        "episode_count": 24
+      },
+      {
+        "season_number": 2,
+        "name": "涩谷事变",
+        "episode_count": 23
+      },
+      {
+        "season_number": 3,
+        "name": "死灭回游",
+        "episode_count": 24
+    }
+    ]
   }
 }
